@@ -15,7 +15,7 @@ if (user % 5) {
   console.log("Not a Multiple of 5");
 }
 
-let score = 45 ;
+let score = 85 ;
 if (score >= 95) {
   console.log("Grade A");
 } else if (score >= 75) {
